@@ -1,0 +1,14 @@
+.title {
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.photo {
+    text-align:right;
+}
+
+.item {
+    width: 200px;
+    float: left;
+}
+
