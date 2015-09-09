@@ -4,11 +4,29 @@
 }
 
 .photo {
-    text-align:right;
+    display: inline-block;
+    float: right;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
 }
+
 
 .item {
     width: 200px;
+    float: left;
+}
+.tabel{
+    border: 3px solid #8AC007;
+    text-align: right;
+    width: 200px;
+
+}
+
+.tutvustus {
+    clear: both;
+    display: block;
+    padding: 20px 20px 20px 20px;
+    margin: 20px 20px 20px 20px;
     float: left;
 }
 
