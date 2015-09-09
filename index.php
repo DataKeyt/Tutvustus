@@ -52,7 +52,7 @@
 
                 </div>
                     <div class="photo">
-                        <a href="https://www.facebook.com/retekeyt"><img src="img/photo.jpg"/></a>
+                        <a href="https://www.facebook.com/retekeyt"><img src="https://s3.amazonaws.com/prod.tracker2/resource/50481576/IMG_0162edited.jpg?AWSAccessKeyId=AKIAJEX3ET63U5T77TYA&Expires=1441819528&Signature=%2FlO3GRLKRIlu7pSVmaOqDjX5NE0%3D"/></a>
                         <p><a href=" http://codecademy.com/keybot/">"Codecademy"</a></p>
                     </div>
                 <div class="tabel">
