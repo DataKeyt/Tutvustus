@@ -1,3 +1,9 @@
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+
 .title {
     text-transform: uppercase;
     text-align: center;
@@ -6,13 +12,11 @@
 .photo {
     display: inline-block;
     float: right;
-    padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px;
 }
 
 
 .item {
-    width: 200px;
+    width: 400px;
     float: left;
 }
 .tabel{
@@ -25,8 +29,17 @@
 .tutvustus {
     clear: both;
     display: block;
-    padding: 20px 20px 20px 20px;
-    margin: 20px 20px 20px 20px;
     float: left;
+    width: 700px;
 }
 
+.right {
+    width: 500px;
+    float: right;
+}
+
+.contact {
+    width: 1200px;
+    margin: 0 auto;
+    overflow: hidden;
+}
