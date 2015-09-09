@@ -11,7 +11,7 @@
 
 .photo {
     display: inline-block;
-    float: right;
+    float: left;
 }
 
 
@@ -21,8 +21,8 @@
 }
 .tabel{
     border: 3px solid #8AC007;
-    text-align: right;
-    width: 200px;
+    display: inline-block;
+    float: left;
 
 }
 
@@ -30,11 +30,12 @@
     clear: both;
     display: block;
     float: left;
-    width: 700px;
+    width: 750px;
+    margin-right: 50px;
 }
 
 .right {
-    width: 500px;
+    width: 400px;
     float: right;
 }
 

@@ -15,7 +15,7 @@
                 <div class="wrapper">
                     <h1 class="title">kes ma olen?</h1>
                     <div class="tutvustus">
-                        <h2>Tutvustus</h2>
+                        <h2>OLEN</h2>
                         <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda,
                             end Codeacademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda saata.
                         </p>
@@ -29,7 +29,7 @@
                             </p>
                         <h2>TAUST</h2>
                             <br>
-                        <h2>Eelmised koolid</h2>
+                        <p>Eelmised koolid</p>
                             <br>
                         <ul>
                             <li>Tartu Kutsehariduskeskus</li>
@@ -57,6 +57,8 @@
                             <a href="https://www.facebook.com/retekeyt"><img src="img/photo.jpg"/></a>
                             <p><a href=" http://codecademy.com/keybot/">"Codecademy"</a></p>
                         </div>
+
+
                         <div class="tabel">
                             <table>
                                 <tr>
@@ -68,9 +70,10 @@
                                     <td>Õppimine</td>
                                 </tr>
                             </table>
-                        </div> <!-- .tabel -->
+                        </div> <
                     </div>
-                </div> <!-- .wrapper -->
+                </div>
+                    <hr>
                 <div class="contact">
                     <div class="item">
                         <p>Nimi: Rete-Keyt Uibo</p>
