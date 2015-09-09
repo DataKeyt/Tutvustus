@@ -15,7 +15,9 @@
                 <h1 class="title">kes ma olen?</h1>
                 <div class="tutvustus">
                     <h2>Tutvustus</h2>
-                    <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda, end Codeacademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda  </p>
+                    <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda, end Codeacademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda saata.
+                        Mul ei ole palju lemmiktegevusi, -sööke ega muid lemmikuid, kuid see ei tähenda, et ühtegi lemmikasja poleks. Nii et natukene lemmikmängust. Ingress- see on mäng, kus terve maailm on meie mängulaud.
+                        Sõna otseses mõttes. Ingressi ei saa mängida toas istudes. Selleks tuleb õues ringi liikuda kas ratta, auto või kondimootori abil. Rohkem infot selle kohta on olemas siin</p>
                     <h2>Hobbid</h2>
                     <p>Mulle meeldib ujuda, jalutada ja rattaga sõita</p>
                     <h2>Info foto kohta</h2>
