@@ -4,11 +4,24 @@
 }
 
 .photo {
-    text-align:right;
+    float:right;
 }
 
+.photo-size {
+    height: 40;
+    width 25;
+}
 .item {
     width: 200px;
     float: left;
+}
+.tabel{
+    text-align:right;
+    width: 200px;
+
+}
+
+.tutvustus {
+    text-align:left;
 }
 

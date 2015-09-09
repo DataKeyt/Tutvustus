@@ -13,13 +13,21 @@
         <head>
             <body>
                 <h1 class="title">kes ma olen?</h1>
-                <div class="photo">
-                    <a href="https://www.facebook.com/retekeyt">
+                <div class="tutvustus">
+                    <h2>Tutvustus</h2>
+                    <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda, end Codeacademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda  </p>
+                    <h2>Hobbid</h2>
+                    <p>Mulle meeldib ujuda, jalutada ja rattaga sõita</p>
+                    <h2>Info foto kohta</h2>
+                    <p>Pilt on tehtud KHK õmbleja eriala lõpet amisel</p>
+                </div>
+                    <div class="photo"><a href="https://www.facebook.com/retekeyt">
                         <img src="img/photo.jpg"/>
                     </a>
                     <p><a href=" http://codecademy.com/keybot/">"Codecademy"</a></p>
-                </div>
-                <table>
+                <div class="tabel">
+                    <table>
+                        <table border="1">
                     <tr>
                         <th>Ajaperiood</th>
                         <th>Tegevused</th>
@@ -29,14 +37,8 @@
                         <td>Õppimine</td>
                     </tr>
                 </table>
-                <div>
-                    <h2>Tutvustus</h2>
-                    <p>Olen kahekümnendates neiu ja õpin Tartu Kutsehariduskeskuses</p>
-                    <h2>Hobbid</h2>
-                    <p>Mulle meeldib ujuda, jalutada ja rattaga sõita</p>
-                    <h2>Info foto kohta</h2>
-                    <p>Pilt on tehtud KHK õmbleja eriala lõpetamisel</p>
                 </div>
+
                 <div>
                     <div class="item">
                         <p>Rete- Keyt Uibo</p>
