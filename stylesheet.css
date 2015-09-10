@@ -4,9 +4,13 @@
     overflow: hidden;
 }
 
-.title {
+.heading {
     text-transform: uppercase;
     text-align: center;
+    /**border-color: black;**/
+    border-width: 1px;
+    border: double black;
+    overflow: hidden;
 }
 
 .photo {
@@ -60,10 +64,3 @@ body {
     background-image: url("http://demilked.uuuploads.com/free-paper-textures/free-paper-texture-7.jpg")
 }
 
-title {
-       /**border-color: black;**/
-       border-width: 1px;
-       border: double black;
-       overflow: hidden;
-
-}
