@@ -14,7 +14,7 @@
             <body>
 
         <div class="wrapper">
-                    <h1 class="title">kes ma olen?</h1>
+                    <h1 class="heading">Kes ma olen?</h1>
                     <div class="tutvustus">
                         <h2>OLEN...</h2>
                         <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda,
@@ -31,7 +31,7 @@
                         <p>Eelmised koolid</p>
                         <ul>
                             <li>Tartu Kutsehariduskeskus</li>
-                            <li>Elva Gümnassium</li>
+                            <li>Elva Gümnaasium</li>
                         </ul>
                             <p>Õppisin enne praegusele erialale kandideerimist kolm aastat rõivaõmblust. Lõpetasin kiitusega ja käisin fancydel vastuvõttudel.</p>
                             Paljud imestavad ja küsivad, miks selline küllaltki ootamatu otsus. Põhjuseid on mitmeid:
@@ -62,8 +62,8 @@
                                     <th>Amet</th>
                                 </tr>
                                 <tr>
-                                    <td>Rete-Geyt Uibo</td>
-                                    <td>21.veebrar 1996</td>
+                                    <td>Rete-Keyt Uibo</td>
+                                    <td>21.veebruar 1996</td>
                                     <td>Õpilane</td>
                                 </tr>
                             </table>
