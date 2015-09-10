@@ -13,16 +13,30 @@
     overflow: hidden;
 }
 
-.paragrahv {
+.paragrahv1 {
     border-width: 1px;
     border-style: solid;
-    border-color: black;}
+    border-color: black;
+    overflow: hidden;
+    background-color: #90EE90;
+}
+
+.paragrahv2 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    background-color: #90EE90;
+}
 
 
 .photo {
     display: inline-block;
     float: left;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
 }
+
 
 
 .item {

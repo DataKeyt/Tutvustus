@@ -30,6 +30,7 @@
                                 Rohkem infot selle kohta on olemas <a href="http://www.arvustus.com/ingress-eesti">siin</a>
                             </p>
                     </div>
+                            <div class="paragrahv2">
                         <h2>TAUST</h2>
                         <p>Eelmised koolid</p>
                         <ul>
@@ -48,11 +49,12 @@
                             <p>Juunis läbisin Codeacademys "Make a Website" kursuse. Veidi aega hiljem ka "Make an Interactive Website" kursuse,
                             kus oli esimene kokkupuude JavaScriptiga(mis väidetavalt pidi imelihtne olema!). Hetkel on pooleli kaks kursust, aga mitte kauaks
                             </p>
-
+                            </div>
                     </div>
                     <div class="right">
-                        <div class="photo">
+                            <div class="photo">
                             <a href="https://www.facebook.com/retekeyt"><img src="img/photo.jpg"/></a>
+                            </div>
                             <p><a href=" http://codecademy.com/keybot/">Codecademy</a></p>
                         </div>
 
