@@ -12,37 +12,38 @@
             <link rel="stylesheet" type="text/css" href="stylesheet.css">
         <head>
             <body>
-                <div class="wrapper">
+
+        <div class="wrapper">
                     <h1 class="title">kes ma olen?</h1>
                     <div class="tutvustus">
                         <h2>OLEN</h2>
-                        <p>Olen Ã¼ks 19- aastane Elvast pÃ¤rit rohesilmne tÃ¼tarlaps, kellele meeldib vabal ajal raamatuid lugeda,
-                            end Codeacademys veebiarenduse alal arendada, Ingressi mÃ¤ngida ja palju muud toredat korda saata.
+                        <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda,
+                            end Codeacademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda saata.
                         </p>
-                            <p>Mul ei ole palju lemmiktegevusi, -sÃ¶Ã¶ke ega muid lemmikuid,
-                                kuid see ei tÃ¤henda, et Ã¼htegi lemmikasja poleks. Nii et natukene lemmikmÃ¤ngust.
-                                Ingress- see on mÃ¤ng, kus terve maailm on meie mÃ¤ngulaud.
-                                SÃµna otseses mÃµttes. Ingressi ei saa mÃ¤ngida toas istudes.
-                                Selleks tuleb Ãµues ringi liikuda kas ratta, auto vÃµi kondimootori abil.
+                            <p>Mul ei ole palju lemmiktegevusi, -sööke ega muid lemmikuid,
+                                kuid see ei tähenda, et ühtegi lemmikasja poleks. Nii et natukene lemmikmängust.
+                                Ingress- see on mäng, kus terve maailm on meie mängulaud.
+                                Sõna otseses mõttes. Ingressi ei saa mängida toas istudes.
+                                Selleks tuleb õues ringi liikuda kas ratta, auto või kondimootori abil.
                                 Rohkem infot selle kohta on olemas <a href="http://www.arvustus.com/ingress-eesti">siin</a>
                             </p>
                         <h2>TAUST</h2>
                         <p>Eelmised koolid</p>
                         <ul>
                             <li>Tartu Kutsehariduskeskus</li>
-                            <li>Elva GÃ¼mnassium</li>
+                            <li>Elva Gümnassium</li>
                         </ul>
-                            <p>Ã•ppisin enne praegusele erialale kandideerimist kolm aastat rÃµivaÃµmblust. LÃµpetasin kiitusega ja kÃ¤isin fancydel vastuvÃµttudel.</p>
-                            Paljud imestavad ja kÃ¼sivad, miks selline kÃ¼llaltki ootamatu otsus. PÃµhjuseid on mitmeid:
+                            <p>Õppisin enne praegusele erialale kandideerimist kolm aastat rõivaõmblust. Lõpetasin kiitusega ja käisin fancydel vastuvõttudel.</p>
+                            Paljud imestavad ja küsivad, miks selline küllaltki ootamatu otsus. Põhjuseid on mitmeid:
                             <ol>
                                 <li>Suur huvi veebiarenduse vastu</li>
-                                <li>Soov kunagi sel alal tÃ¶Ã¶tada</li>
+                                <li>Soov kunagi sel alal töötada</li>
                                 <li>Miks mitte?</li>
                             </ol>
-                            <p>Erialane taust ei ole veel vÃ¤ga mÃ¤rkimisvÃ¤Ã¤rne. Hakkasin kevadel Ã¼he vÃ¤ga hea sÃµbra abil Ãµppima HTML-i ja CSS-i.
-                            VÃ¤ga kaugele sellega kahjuks ei jÃµudnud, kuna eksamid tulid vahele ning fookust oli mujal vaja.</p>
-                            <p>Juunis lÃ¤bisin Codeacademys "Make a Website" kursuse. Veidi aega hiljem ka "Make an Interactive Website" kursuse,
-                            kus oli esimene kokkupuude JavaScriptiga(mis vÃ¤idetavalt pidi imelihtne olema!). Hetkel on pooleli kaks kursust, aga mitte kauaks
+                            <p>Erialane taust ei ole veel väga märkimisväärne. Hakkasin kevadel ühe väga hea sõbra abil õppima HTML-i ja CSS-i.
+                            Väga kaugele sellega kahjuks ei jõudnud, kuna eksamid tulid vahele ning fookust oli mujal vaja.</p>
+                            <p>Juunis läbisin Codeacademys "Make a Website" kursuse. Veidi aega hiljem ka "Make an Interactive Website" kursuse,
+                            kus oli esimene kokkupuude JavaScriptiga(mis väidetavalt pidi imelihtne olema!). Hetkel on pooleli kaks kursust, aga mitte kauaks
                             </p>
 
                     </div>
@@ -56,14 +57,14 @@
                         <div class="tabel">
                             <table>
                                 <tr>
-                                    <th>SÃ¼nninimi</th>
-                                    <th>SÃ¼nnikuupÃ¤ev</th>
+                                    <th>Sünninimi</th>
+                                    <th>Sünnikuupäev</th>
                                     <th>Amet</th>
                                 </tr>
                                 <tr>
-                                    <td>SÃ¼nnikuupÃ¤ev</td>
+                                    <td>Sünnikuupäev</td>
                                     <td>21.veebrar 1996</td>
-                                    <td>Ã•pilane</td>
+                                    <td>Õpilane</td>
                                 </tr>
                             </table>
                         </div>
