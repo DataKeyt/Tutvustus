@@ -13,6 +13,12 @@
     overflow: hidden;
 }
 
+.paragrahv {
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;}
+
+
 .photo {
     display: inline-block;
     float: left;
@@ -24,7 +30,7 @@
     float: left;
 }
 .tabel{
-    border: 3px solid #8AC007;
+    border: 3px solid black;
     display: inline-block;
     float: left;
 
@@ -54,6 +60,11 @@
     text-align: center;
 }
 
+
+
+
+
+
 td {
     padding: 5px 16px 7px 16px;
     border-top: 1px gray solid;
@@ -62,5 +73,8 @@ td {
 
 body {
     background-image: url("http://demilked.uuuploads.com/free-paper-textures/free-paper-texture-7.jpg")
+}
+
+p {font-size: 120%
 }
 
