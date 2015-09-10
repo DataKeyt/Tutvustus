@@ -13,9 +13,11 @@
         <head>
             <body>
 
-        <div class="wrapper">
+
+                <div class="wrapper">
                     <h1 class="heading">Kes ma olen?</h1>
-                    <div class="tutvustus">
+                        <div class="tutvustus">
+                            <div class="paragrahv1">
                         <h2>OLEN...</h2>
                         <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda,
                             end Codeacademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda saata.
@@ -27,6 +29,7 @@
                                 Selleks tuleb õues ringi liikuda kas ratta, auto või kondimootori abil.
                                 Rohkem infot selle kohta on olemas <a href="http://www.arvustus.com/ingress-eesti">siin</a>
                             </p>
+                    </div>
                         <h2>TAUST</h2>
                         <p>Eelmised koolid</p>
                         <ul>
