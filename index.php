@@ -16,7 +16,7 @@
         <div class="wrapper">
                     <h1 class="title">kes ma olen?</h1>
                     <div class="tutvustus">
-                        <h2>OLEN</h2>
+                        <h2>OLEN...</h2>
                         <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda,
                             end Codeacademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda saata.
                         </p>
@@ -62,7 +62,7 @@
                                     <th>Amet</th>
                                 </tr>
                                 <tr>
-                                    <td>Sünnikuupäev</td>
+                                    <td>Rete-Geyt Uibo</td>
                                     <td>21.veebrar 1996</td>
                                     <td>Õpilane</td>
                                 </tr>
