@@ -55,7 +55,7 @@
                             <div class="photo">
                             <a href="https://www.facebook.com/retekeyt"><img src="img/photo.jpg"/></a>
                             </div>
-                            <p><a href=" http://codecademy.com/keybot/">Codecademy</a></p>
+                            <p><a href=" http://codecademy.com/keybot/">Codeacademy</a></p>
                         </div>
 
 
@@ -88,7 +88,7 @@
                     </div>
                     <div class="item">
                         <p>Twitter: https://twitter.com/DataKeyt</p>
-                        <p>Facbook: https://www.facebook.com/retekeyt</p>
+                        <p>Facebook: https://www.facebook.com/retekeyt</p>
                     </div>
                 </div>
             </body>
