@@ -20,7 +20,7 @@
                             <div class="paragrahv1">
                         <h2>OLEN...</h2>
                         <p>Olen üks 19- aastane Elvast pärit rohesilmne tütarlaps, kellele meeldib vabal ajal raamatuid lugeda,
-                            end Codeacademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda saata.
+                            end Codecademys veebiarenduse alal arendada, Ingressi mängida ja palju muud toredat korda saata.
                         </p>
                             <p>Mul ei ole palju lemmiktegevusi, -sööke ega muid lemmikuid,
                                 kuid see ei tähenda, et ühtegi lemmikasja poleks. Nii et natukene lemmikmängust.
@@ -46,7 +46,7 @@
                             </ol>
                             <p>Erialane taust ei ole veel väga märkimisväärne. Hakkasin kevadel ühe väga hea sõbra abil õppima HTML-i ja CSS-i.
                             Väga kaugele sellega kahjuks ei jõudnud, kuna eksamid tulid vahele ning fookust oli mujal vaja.</p>
-                            <p>Juunis läbisin Codeacademys "Make a Website" kursuse. Veidi aega hiljem ka "Make an Interactive Website" kursuse,
+                            <p>Juunis läbisin Codecademys "Make a Website" kursuse. Veidi aega hiljem ka "Make an Interactive Website" kursuse,
                             kus oli esimene kokkupuude JavaScriptiga(mis väidetavalt pidi imelihtne olema!). Hetkel on pooleli kaks kursust, aga mitte kauaks
                             </p>
                             </div>
@@ -55,7 +55,7 @@
                             <div class="photo">
                             <a href="https://www.facebook.com/retekeyt"><img src="img/photo.jpg"/></a>
                             </div>
-                            <p><a href=" http://codecademy.com/keybot/">Codeacademy</a></p>
+                            <p><a href=" http://codecademy.com/keybot/">Codecademy</a></p>
                         </div>
 
 
